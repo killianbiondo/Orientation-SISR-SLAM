@@ -1,0 +1,6 @@
+[
+  {"description": "Je veux travailler sur des serveurs.", "expected": "SISR"},
+  {"description": "J'aime développer des applications web.", "expected": "SLAM"},
+  {"description": "Je suis intéressé par la virtualisation.", "expected": "SISR"},
+  {"description": "Base de données et conception web m'intéressent.", "expected": "SLAM"}
+]
