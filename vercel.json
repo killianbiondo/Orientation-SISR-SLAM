@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "IA/src/classifier.py", "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "src": "/.*", "dest": "IA/src/classifier.py" }
+  ]
+}
