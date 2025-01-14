@@ -104,7 +104,7 @@ pytest tests/test_classifier.py
 ## Améliorations Futures
 1-Hébergement de l'application sur une plateforme cloud (par ex. Heroku, Streamlit Cloud).
 
-Personnellemnt, nous avns utilisé Vercel.
+Personnellemnt, nous avons utilisé Vercel.
 
 2- Comment héberger notre projet : 
 
